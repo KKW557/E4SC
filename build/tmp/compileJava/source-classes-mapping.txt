@@ -1,0 +1,8 @@
+icu/kevin557/e4sc/Utils.java
+ icu.kevin557.e4sc.Utils
+icu/kevin557/e4sc/Helper.java
+ icu.kevin557.e4sc.Helper
+icu/kevin557/e4sc/E4SC.java
+ icu.kevin557.e4sc.E4SC
+icu/kevin557/e4sc/Processes.java
+ icu.kevin557.e4sc.Processes
